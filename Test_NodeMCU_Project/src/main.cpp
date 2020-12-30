@@ -8,12 +8,12 @@
 #include <DallasTemperature.h>
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
+#include "secrets.h"
 
 
-char auth[] = "nG6SNWPi3aBAdbGsjKJmleO9Cov7G2Jg";
-
-char ssid[] = "Kiscsillag";
-char pass[] = "19871988";
+char auth[] = API_KEY;  //from secrets.h
+char ssid[] = SSID;     //from secrets.h
+char pass[] = PASSWORD; //from secrets.h
 
 BlynkTimer timer;
 

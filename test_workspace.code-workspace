@@ -5,8 +5,8 @@
 			"path": "Test_NodeMCU_Project"
 		},
 		{
-			"name": "Chicken coop automation",
-			"path": "..\\..\\..\\PlatformIO\\Projects\\Chicken coop automation"
+			"name": "Chicken coop automation Blynk",
+			"path": "Chicken coop automation Blynk"
 		}
 	]
 }

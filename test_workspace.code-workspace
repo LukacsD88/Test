@@ -3,6 +3,10 @@
 		{
 			"name": "Test_NodeMCU_Project",
 			"path": "Test_NodeMCU_Project"
+		},
+		{
+			"name": "Chicken coop automation",
+			"path": "..\\..\\..\\PlatformIO\\Projects\\Chicken coop automation"
 		}
 	]
 }
